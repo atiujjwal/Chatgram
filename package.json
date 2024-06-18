@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/atiujjwal/Chatgram/issues"
   },
-  "homepage": "https://github.com/atiujjwal/Chatgram#readme"
+  "homepage": "https://github.com/atiujjwal/Chatgram#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment-timezone": "^0.5.45",
+    "socket.io": "^4.7.5"
+  }
 }
