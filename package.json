@@ -1,0 +1,19 @@
+{
+  "name": "chatgram",
+  "version": "1.0.0",
+  "description": "An application for Messaging between Peers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atiujjwal/Chatgram.git"
+  },
+  "author": "Ujjwal Kashyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atiujjwal/Chatgram/issues"
+  },
+  "homepage": "https://github.com/atiujjwal/Chatgram#readme"
+}
